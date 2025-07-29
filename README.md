@@ -1,6 +1,6 @@
 # Next.js Full-Stack Authentication
 
-A complete authentication system built with Next.js, featuring JWT, protected routes, and MongoDB integration.
+A complete authentication system built with Next.js, featuring JWT, protected routes, MailTrap and MongoDB integration.
 
 
 
