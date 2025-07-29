@@ -2,7 +2,7 @@
 
 A complete authentication system built with Next.js, featuring JWT, protected routes, and MongoDB integration.
 
-![Next.js Auth Demo]
+
 
 ## 🚀 Features
 
@@ -21,9 +21,6 @@ A complete authentication system built with Next.js, featuring JWT, protected ro
 - MongoDB Atlas account (or local MongoDB)
 - Git
 
-### Installation
-
-```bash
 
 
 
